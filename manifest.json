@@ -3,19 +3,19 @@
   "name": "Created by Milan Chatrola",
   "icons": [
     {
-      "src": "chrome-extensionmanagementpage-48-48",
-      "sizes": "48x48",
-      "type": "image/png"
+      "src": "1046robot.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
     },
     {
-      "src": "chrome-favicon-16-16",
+      "src": "logo192.png",
       "type": "image/png",
-      "sizes": "16x16"
+      "sizes": "192x192"
     },
     {
-      "src": "chrome-installprocess-128-128",
+      "src": "logo512.png",
       "type": "image/png",
-      "sizes": "128x128"
+      "sizes": "512x512"
     }
   ],
 
