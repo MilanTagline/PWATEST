@@ -3,14 +3,14 @@
   "name": "Created by Milan Chatrola",
   "icons": [
     {
-      "src": "1046robot.ico",
-      "sizes": "64x64",
-      "type": "image/x-icon"
+      "src": "chrome-extensionmanagementpage-48-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
     },
     {
-      "src": "logo192.png",
+      "src": "chrome-favicon-16-16.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "16x16"
     },
     {
       "src": "logo512.png",
