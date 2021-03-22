@@ -13,9 +13,9 @@
       "sizes": "16x16"
     },
     {
-      "src": "chrome-installprocess-128-128.png",
+      "src": "panda.png",
       "type": "image/png",
-      "sizes": "128x128"
+      "sizes": "512x512"
     }
   ],
 
